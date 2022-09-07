@@ -9,7 +9,7 @@
     "Rename"
   ],
   "success_url": "https://t.me/rename1robot",
-  "website": "https://github.com/MNBots/FileRenameBot",
+  "website": "https://t.me/rename1robot",
   "repository": "https://github.com/MNBots/FileRenameBot",
   "env": {
     "WEBHOOK": {
